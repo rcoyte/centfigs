@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# ADDED RACHEL
+*.csv
+data
+output
+
 # Distribution / packaging
 .Python
 build/
